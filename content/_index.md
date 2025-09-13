@@ -10,7 +10,7 @@ sections:
       title: |
         Center for Language 
         and 
-        Information Research
+                  Information Research
       image:
         filename: welcome.jpg
       text: |
