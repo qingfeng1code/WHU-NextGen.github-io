@@ -9,8 +9,8 @@ sections:
     content:
       title: |
         Center for Language 
-        and 
-                  Information Research
+        and &nbsp &nbsp &nbsp &nbsp &nbsp
+        Information Research
       image:
         filename: welcome.jpg
       text: |
