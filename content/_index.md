@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        WHU-NextGen
-        Research Group
+        WHU-Center for Language and Information Research
       image:
         filename: welcome.jpg
       text: |
