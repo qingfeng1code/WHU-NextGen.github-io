@@ -8,11 +8,11 @@ sections:
   - block: hero
     content:
       title: |
-        Center&nbsp;&nbsp;&nbsp;for&nbsp;&nbsp;&nbsp;Language
+        Center for Language
         <br>
         and
         <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information&nbsp;&nbsp;&nbsp;Research
+        Information Research
       image:
         filename: welcome.jpg
       text: |
